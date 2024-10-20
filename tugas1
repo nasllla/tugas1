@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>tugas1(nailsnow.id)</title>
+	<link rel="icon" type="image/x-icon" href="/tugas/foto/logonailsnow.png">
+	<style> 
+		table, th, td{
+				border: 3px solid black;
+				border-collapse: collapse; border-color: maroon;}
+				th, td{
+					background-color:#fef0fd;padding-top: 15px; 
+					padding-bottom: 15px;
+					padding-left: 15px;
+					padding-right: 15px; text-align: center;
+				}
+	.menu {
+		color: darkblue;
+		font-size: 40px;
+		font: georgia;
+		background-color: hotpink;
+	}
+</style>
+</head>
+<body bgcolor="#fef0fd">
+	<h1 style="color: #ffffff; text-align: center; background-color: #74085e; background-image:url('logonailsnow.png'); background-repeat: no-repeat; background-size: cover;">NAILSNOW.ID<br>(Make Your Dream Nails Come True!)</h1>
+
+<center><video autoplay loop muted width="720" height="360" controls><source src="newcollections.mp4" type="video/mp4"><br>
+</video><br></center>
+
+<h2 style="background-color: #74085e; color: #ffffff;">About Us:</h2>
+<p style="text-align: justify; font-size: 25px; background-image:url('logonailsnow.png'); background-repeat: no-repeat; background-size: cover;"><img src="/tugas/foto/logonailsnow.png" style="float: left; width: 155px; height: 155px; margin: 20px; border-radius: 10px;"><b>NAILSNOW</b> Merupakan Local Brand yang beridiri dibidang Beauty in Fashion masa kini, dengan menunjang product seni mengukir kuku wanita sesuai dengan design impian yang wanita inginkan. <i>Owner</i> Nailsnow merupakan mahasiswa <!--Ilmu Perpustakaan --> yang sedang menempuh pendidikan di jenjang S1. <abbr title="Nailsnow.Id"> Nail Now ID</abbr> sudah berdiri sejak 2022, sejak selesainya COVID-90 yang berawalan hanya menuangkan hobby kecil dalam seni lukisan di kuku-kuku, lalu menuangkan menjadi penghasilan yang disukai banyak orang terutama kaum wanita. Saat ini usaha beauty in fashion kian melonjak banyak pesaing Nailart Industry yang terjun meramaikan per-industian ini, namun Nailnow tidak begitu menghawatirkan, karena memiliki keindentikan suatu brand tersebut. <b>NAILSNOW.ID</b> bukan hanya suatu brand nails biasa, nailsnow bernilai dengan menjual arts painting design, dimana customer bisa memberikan design gambar sesuai dengan impian mereka. maupun dengan painting character, 3d design sampai 5d design. Karena kepuasan pelanggan tetap nomor satu untuk Nailsnow, maka dari itu Nailsnow akan memberikan hasil yang terbaik untuk memberikan kesan yang tak terlupakan dihari bahagia para NAILS BABES!</p>
+
+<h3 style="background-color: #dffdbe; color: #74085e;"> Our Product "GREEN SERIES"</h3>
+<table>
+	<tr>
+		<th><img src="/tugas/foto/green1.jpg" style="width: 250px; height: 250px;"><center>EMERALD GREEN mix cromed touch</center></th>
+		<th><img src="/tugas/foto/green2.jpg" style="width: 250px; height: 250px;"><center>CHROMED Green mix Pink Flowers</center></th>
+		<th><img src="/tugas/foto/green3.jpg" style="width: 250px; height: 250px;"><center>FRENCH FLOWERS with simple 3d</center></th>
+	</tr>
+</table><br>
+
+<h2 style="background-color: #74085e; color: #ffffff;">Our Price List:</h2>
+<table border="3" cellpadding="7" cellspacing="7" style="color: #74085e;">
+		<colgroup>
+	<thead style="text-align: center;">
+		<td>NO.</td>
+		<td>NAME ORDER</td>
+		<td>PACKAGE</td>
+		<td>PRICE</td>
+		<td>LINK APPOINTMENT</td>
+	</thead>
+	<tr>
+		<td style="text-align: center;">1.</td>
+		<td>Press On Nails: SIMPLE DESIGN</td>
+		<td>PON (Press On Nails), Include Simple Design, Tools kit: (Pusher, Buffer, Alchohol pads, Glue double protections.</td>
+		<td>IDR. 250.000</td>
+		<td><a href="https://wa.me/message/HMAJIAUNNWQEH1"><b> BOOK YOUR ORDER HERE! </b></td>
+	</tr>
+	<tr>
+		<td style="text-align: center;">2.</td>
+		<td>Press On Nails: MEDIUM DESIGN</td>
+		<td>PON (Press On Nails), Include Medium Design, Tools kit: (Pusher, Buffer, Alchohol pads, Glue double protections.</td>
+		<td>IDR. 500.000</td>
+		<td><a href="https://wa.me/message/HMAJIAUNNWQEH1"><b> BOOK YOUR ORDER HERE! </b></td>
+	</tr>
+	<tr>
+		<td style="text-align: center;">3.</td>
+		<td>Press On Nails: HARD DESIGN</td>
+		<td>PON (Press On Nails), Include Hard Design, Tools kit: (Pusher, Buffer, Alchohol pads, Glue double protections.</td>
+		<td>IDR. 750.000</td>
+		<td><a href="https://wa.me/message/HMAJIAUNNWQEH1"><b> BOOK YOUR ORDER HERE! </b></td>
+	</tr>
+		</colgroup>
+</table><br>
+
+<h2 style="background-color: #74085e; color: #ffffff;">COMFIRM YOUR VISIT US:</h2><br>
+<form action="/action_page.php"><CENTER> 
+	<label style="color: #a270db; text-align: right;font-family: 
+		georgia;" for="fname">Jenis Design</label><br>
+	<input type="text" id="fname" name="fname" value=""><br><br>
+	<label style="color: #a270db;" for="lname">Jumlah Order</label>
+	<br>
+	<input type="text" id="lname" name="lname" value=""><br><br>
+	<input type="submit" value="submit"><br><br></CENTER>
+</form>
+
+
+<h2 style="background-color: #74085e; color: #ffffff;">Our Social Media</h2>
+<CENTER><table>
+	<tr>
+		<td><strong>GRAB YOURS HERE!</strong></td>
+		<td><strong>OUR LINK</strong></td>
+	</tr>
+	<tr>
+		<td>Our INSTAGRAM</td>
+		<td><a href="https://www.instagram.com/nailsnow.id/">BABES ADMIN</a></td>
+	</tr>
+	<tr>
+		<td>Our WHATSAPP</td>
+		<td><a href="https://wa.me/message/HMAJIAUNNWQEH1">BABES ADMIN</a></td>
+	</tr>
+	<tr>
+		<td>Our TIKTOK</td>
+		<td><a href="https://www.tiktok.com/@nailsnow.id">BABES ADMIN</a></td>
+	</tr>
+</table><br></CENTER>
+
+<h2 style="background-color: #74085e; color: #ffffff;">Our LOCATION:</h2>
+<div><center>
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3965.6342754522084!2d106.84772097431632!3d-6.311682661765264!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69ed911dee6e9f%3A0x84213a47404e4f79!2sMusala%20Nurul%20Ikhsan!5e0!3m2!1sid!2sid!4v1728978407530!5m2!1sid!2sid" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><br>
+</div><br></center>
+
+
+<hr>
+<address><b>VISIT US AT HERE:</b><br>
+Nasywa Ninda Zahrani (11220251000002)<br>
+<a href="nsywnnd@gmail.com">Nsywnnd@gmail.com</a><br>
+Library Science 2022<br>
+Faculty of Adab and Humanities, UIN SYARIF HIDAYATULLAH JAKARTA<br>
+</address>
+
+
+
+<center>
+	<img src="/tugas/foto/logonailsnow.png" style="width: 500px; height: 500px;"></img>
+</center>
+
+</body>
+</html>
